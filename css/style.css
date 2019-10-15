@@ -21,9 +21,3 @@
   color: #343a40;
   border-bottom: 3px solid #ff0000d9;
 }
-
-@media (max-width: 600px) {
-  .navbar-light .navbar-nav .nav-link1 {
-    display: block;
-  }
-}
