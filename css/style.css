@@ -22,8 +22,12 @@
   border-bottom: 3px solid #ff0000d9;
 }
 
+.active{
+  color: #ff0000d9!important;
+}
+
 .sidebarMargin{
-margin-bottom: 30px!important; 
+margin-bottom: 30px!important;
 }
 
 .sidebar_heading{
