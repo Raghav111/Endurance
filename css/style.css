@@ -55,6 +55,7 @@ margin-bottom: 90px!important;
 #sidebar-wrapper {
   z-index: 1000;
   position: fixed;
+  top: 90px;
   left: -200px;
   width: 250px;
   height: 100%;
@@ -172,7 +173,4 @@ margin-bottom: 90px!important;
         position: relative;
         margin-right: 50px;
     }
-}
-.fixed-right{
-  top:90px;
 }
