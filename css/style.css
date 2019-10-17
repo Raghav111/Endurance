@@ -1,3 +1,6 @@
+h2{
+  font-size: 2.2rem;
+}
 .navbar-brand img {
   width: 145px;
 }
@@ -173,4 +176,12 @@ margin-bottom: 90px!important;
         position: relative;
         margin-right: 50px;
     }
+}
+.slideone{
+  background-color: #dedede;
+  margin-left: 120px;
+}
+.slidetwo{
+  background-color: #fff;
+  margin-left: 120px;
 }
