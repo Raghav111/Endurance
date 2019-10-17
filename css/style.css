@@ -185,3 +185,11 @@ margin-bottom: 90px!important;
   background-color: #fff;
   margin-left: 120px;
 }
+.black-bg{
+  background-color: #000;
+}
+.footer-des {
+    color: #EAF6F6;
+    padding-top: 10px;
+    margin-left: 230px;
+}
